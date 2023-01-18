@@ -22,10 +22,11 @@
 #### NB : Pour utiliser cette calculatrice, vous devez avoir certaines bibliothèques Python installées sur votre ordinateur.
 Voici la liste des bibliothèques nécessaires:
 
--PyQt5.
--Numpy.
--Sympy.
--Matplotlib.
+1) PyQt5
+2) Numpy
+3) Sympy
+4) Matplotlib
+
 Voici comment installer ces bibliothèques:
 
 1) Ouvrez un terminal ou une invite de commande.

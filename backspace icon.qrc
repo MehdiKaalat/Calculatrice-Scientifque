@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="backspace">
+    <file>backspace.png</file>
+  </qresource>
+  <qresource prefix="close">
+    <file>PngItem_2148729.png</file>
+    <file>Red-Close-Button-Transparent.png</file>
+  </qresource>
+  <qresource prefix="courbe">
+    <file>flatten_the_curve_icon_142602.png</file>
+  </qresource>
+</RCC>

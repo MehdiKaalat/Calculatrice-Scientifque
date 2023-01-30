@@ -3,7 +3,7 @@
 
 ## Guide d'utilisation :
 
-1) Allez sur la page de projet de "Calculatrice-scientifque---Scientific-Calculator" sur GitHub.
+1) Allez sur la page de projet de "Calculatrice-scientifque" sur GitHub.
 
 2) Cliquez sur le bouton "Clone or download" pour télécharger le code source de la calculatrice.
 
